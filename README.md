@@ -1,21 +1,22 @@
 # Landing Page Project
 
-## Description
+## Introduction
 
 Responsive Landing page project
 
-## Requirments:
+## Feautre
 
 1. Navigation is built dynamically as unordered list.
 2. Adding active class to the section in the view port.
 3. when clicking an item from nav menu , the page should scroll to the appropriate section with smooth scrolling.
 
-## Table of Contents
+## Technologies
 
-- [Instructions](#instructions)
+- HTML5
+- CSS3
+- JS
+- DOM
 
 ## Methods:
 
 1. Element.scrollIntoView();
-
-
